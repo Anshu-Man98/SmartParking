@@ -9,8 +9,8 @@ namespace ParkingService.Services
 {
     public class SmsService
     {
-        string accountSid = "AC2289cce109244962ff3e67ed4e0408be";
-        string authToken = "483b3400345fcca92c7916aa90dc6876";
+        string accountSid = "TestIDAC2289cce109244962ff3e67ed4e0408be";
+        string authToken = "TestAuth483b3400345fcca92c7916aa90dc6876";
 
         private readonly string _accountSid;
         private readonly string _authToken;
